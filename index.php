@@ -58,7 +58,7 @@ Floom flower shop
 				<div class="tm-header">
 					<div class="row tm-header-inner">
 						<div class="col-md-6 col-12">
-                        <object type="image/svg+xml" data="logosvg.php" style="width:100px; height:100px;" class="tm-site-logo">
+                        <object type="image/svg+xml" data="logosvg.php" style="width:90px; height:90px;" class="tm-site-logo">
                             <!-- Your fall back here -->
                             <img src="logosvg.php" />
                         </object>
